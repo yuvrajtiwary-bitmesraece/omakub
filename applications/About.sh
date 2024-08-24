@@ -5,7 +5,7 @@ Name=About
 Comment=System information from Fastfetch
 Exec=alacritty --config-file /home/$USER/.local/share/omakub/defaults/alacritty/pane.toml --class=About --title=About -e bash -c 'fastfetch; read -n 1 -s'
 Terminal=false
-# single LL 
+# single list
 Type=Application
 Icon=/home/$USER/.local/share/omakub/applications/icons/Ubuntu.png
 Categories=GTK;
