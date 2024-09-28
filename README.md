@@ -11,3 +11,4 @@ Please help us improve Omakub's documentation on the [basecamp/omakub-site repos
 ## License
 
 Omakub is released under the [MIT License](https://opensource.org/licenses/MIT).
+
