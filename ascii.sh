@@ -5,7 +5,6 @@ ________                  __        ___.
 /    |    \  Y Y  \/ __ \|    <|  |  / \_\ \
 \_______  /__|_|  (____  /__|_ \____/|___  /
         \/      \/     \/     \/         \/
-
 '
 
 # Define the color gradient (shades of cyan and blue)
