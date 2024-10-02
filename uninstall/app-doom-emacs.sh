@@ -1,4 +1,3 @@
-sudo apt remove --purge -y emacs emacs-gtk
+sudo apt remove --purge -y emacs cmake libtool-bin
 sudo rm -rf ~/.config/emacs
-sudo rm -rf ~/.emacs.d
 sudo rm -rf ~/.config/doom
